@@ -1,0 +1,14 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin-left: 12rem;
+  margin-top: 18rem;
+  font-size: 30px;
+  font-family: sans-serif;
+}
+span {
+  color: rgb(64, 64, 240);
+}
+h1{
+    display: inline;
+}
